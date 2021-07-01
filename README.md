@@ -6,4 +6,6 @@ UserName: wladytb
 Password: wlady123456
 <h4>credenciales Administrador</h4>
 UserName: juanC
-Password: 123456
+Password: 123456 <br/>
+este es el login
+<img width="50%" src="imagenes/login.jpg" alt=""/>
